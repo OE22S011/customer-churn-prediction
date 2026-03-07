@@ -1,1 +1,2 @@
 "This is my churn prediction project" 
+"Today I learned Git basics" 
